@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/zhengjiesun](https://www.linkedin.com/in/zhengjie-sun-669992318/))
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:zhengjie1sun@gmail.com)
 
-
-### 📊 3D GitHub Contribution Graph
-
-![3D Contributions](https://raw.githubusercontent.com/Seanjie250/github-profile-3d-contrib/main/profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contributions](./profile-3d-contrib/profile-night-green.svg)
 
 
