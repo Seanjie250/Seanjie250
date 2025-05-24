@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 
 ### 📊 3D GitHub Contribution Graph
 
-![3D Contributions](./profile-3d-contrib/profile-3d-contrib.svg)
+![3D Contributions](https://raw.githubusercontent.com/Seanjie250/github-profile-3d-contrib/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 
