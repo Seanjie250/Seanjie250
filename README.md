@@ -1,4 +1,7 @@
-## Hi there 👋
+👋 Hi, I’m Zhengjie( Sean )jie — a current student at the University of Washington, Seattle. \
+🌍 I love traveling and exploring new places. \
+☕ When I’m not studying or coding, you’ll find me chilling and enjoying life.
+
 
 <!--
 **Seanjie250/Seanjie250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
