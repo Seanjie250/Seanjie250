@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/zhengjiesun](https://www.linkedin.com/in/zhengjie-sun-669992318/))
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:zhengjie1sun@gmail.com)
