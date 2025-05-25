@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:zhengjie1sun@gmail.com)
 [![Wechat](https://img.shields.io/badge/Wechat-09B83E?logo=wechat)](mailto:zhengjie1sun@gmail.com)
 
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contributions](./profile-3d-contrib/profile-night.svg)
 
 
