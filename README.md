@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/zhengjiesun](https://www.linkedin.com/in/zhengjie-sun-669992318/))
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:zhengjie1sun@gmail.com)
+[![Wechat](https://img.shields.io/badge/Wechat-09B83E?logo=wechat)](mailto:zhengjie1sun@gmail.com)
 
 ![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
