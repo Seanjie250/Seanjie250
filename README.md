@@ -1,6 +1,6 @@
 👋 Hi, I’m Zhengjie( Sean )Sun — a current student at the University of Washington, Seattle. \
 🌍 I love traveling and exploring new places. \
-☕ When I’m not studying or coding, you’ll find me chilling and enjoying life.
+
 
 
 <!--
